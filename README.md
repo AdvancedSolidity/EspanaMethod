@@ -1,0 +1,15 @@
+# Espana Method
+
+A decentralized method to trustlessly exchange Fiat currencies for cryptocurrency using non-custodial swaps and game theory.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/deploy.js
+npx hardhat help
+```
